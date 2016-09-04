@@ -12,6 +12,7 @@ public class Main {
 //        keep this in the student class since the methods are related to the class
 // helen.checkSameFavoriteFood(); method belongs to every student, not just helen so don't use static methods as
 // it returns about things in the class independent of the instances
+        // TEST how to update
 
 
     }
